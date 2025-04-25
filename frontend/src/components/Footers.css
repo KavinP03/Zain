@@ -1,0 +1,47 @@
+.contact ul{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    
+}
+.contact li{
+    text-decoration: none;
+    list-style-type: none;
+    padding-bottom: 5px;
+}
+.contact h1{
+    color: black;
+}
+.cus ul{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    
+}
+.cus li{
+    text-decoration: none;
+    list-style-type: none;
+    padding-top: 5px;
+}
+.cus h1{
+    color:black;
+}
+.social ul{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    
+}
+.social li{
+    text-decoration: none;
+    list-style-type: none;
+    padding-bottom: 5px;
+}
+.social h1{
+    color: black;
+}
+.copy{
+    text-align: center;
+}
+
+

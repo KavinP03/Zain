@@ -1,0 +1,290 @@
+.caro1{
+    width: 1520px;
+    height: 506px;
+
+}
+.caro1 button{
+    touch-action: manipulation;
+}
+.men_1 .card{
+    border: none;
+}
+.men_1 h1{
+    text-align: center;
+font-family: Crimson Pro, serif;
+letter-spacing: 2px;
+}
+.categories {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin: 20px 0;
+    position: relative;
+}
+
+.category-btn {
+    border: none;
+    background-color: transparent;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    position: relative;
+    padding-bottom: 5px; /* Space for underline */
+}
+
+
+
+/* Hover Effect */
+.category-btn::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    width: 0;
+    height: 2px;
+    background: black;
+    transition: width 0.3s ease-in-out;
+}
+
+.category-btn:hover::after {
+    width: 100%;
+}
+.men_1 h1{
+    padding-top: 50px;
+}
+.men_1 .card{
+    background-color: rgb(232, 232, 219);
+}
+.mone{
+    background-color: rgb(232, 232, 219);
+    
+}
+.mone .container{
+    height: 750px;
+}
+.mentwo {
+    padding: 40px 0;
+    text-align: center;
+    position: relative;
+}
+
+.carousel-container {
+    position: relative;
+    max-width: 80%;
+    margin: auto;
+}
+
+.circleCarousel {
+    padding: 20px 0;
+}
+
+.circle-img {
+    width: 100px; /* Adjust as needed */
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #ddd;
+    transition: transform 0.3s ease-in-out;
+}
+
+.circle-img:hover {
+    transform: scale(1.1);
+}
+
+/* Swiper Navigation Buttons */
+.swiper-button-prev,
+.swiper-button-next {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent */
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+    background-color: black;
+}
+
+.swiper-button-prev {
+    left: -50px;
+}
+
+.swiper-button-next {
+    right: -50px;
+}
+.mentwo {
+    padding: 40px 0;
+    text-align: center;
+    position: relative;
+}
+.men_1 .card img:hover{
+    transform: scale(1.1);
+}
+.carousel-container {
+    position: relative;
+    max-width: 98%;
+    margin: auto;
+}
+
+.circleCarousel {
+    padding: 20px 0;
+}
+
+.category {
+    text-align: center;
+}
+
+.circle-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #ddd;
+    transition: transform 0.3s ease-in-out;
+}
+
+.circle-img:hover {
+    transform: scale(1.1);
+}
+
+.category p {
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* Swiper Navigation Buttons */
+.swiper-button-prev,
+.swiper-button-next {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 20px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+    background-color: black;
+}
+
+.swiper-button-prev {
+    left: -30px;
+}
+
+.swiper-button-next {
+    right: -30px;
+}
+/* Swiper Navigation Buttons */
+.swiper-button-prev,
+.swiper-button-next {
+    color: black !important; /* Change to black or any visible color */
+    background-color: white;  /* Add background */
+    border-radius: 50%;       /* Make it circular */
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Add shadow */
+}
+
+/* Ensure the navigation buttons are inside the container */
+.swiper-button-prev {
+    margin-left: 50px;
+}
+.swiper-button-next {
+    margin-right: 50px;
+}
+
+/* Hover effect */
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+    background-color: #ddd;
+}
+.menthree h1{
+    text-align: center;
+   font-family: Crimson Pro, serif;
+   letter-spacing: 2px;
+}
+.menfour h1{
+    text-align: center;
+   font-family: Crimson Pro, serif;
+   letter-spacing: 2px;
+   padding-bottom: 30px;
+}
+.menthree .page1 img{
+    height: 400px;
+}
+.menthree h5,h6, p{
+    font-family: Crimson Pro, serif;
+    text-align: center;
+}
+.menfour h5,h6, p{
+    font-family: Crimson Pro, serif;
+    text-align: center;
+}
+.menfour .page1 img{
+    height: 400px;
+}
+.menfour .card{
+    height: 600px;
+}
+
+.menthree .card{
+    height: 620px;
+}
+.menfour .card{
+    height: 620px;
+}
+.page1 button {
+    padding: 6px 16px;
+   
+    width: auto;
+    white-space: nowrap; /* Prevent text from wrapping */
+    background-color:black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 14px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: -70px;
+    
+  }
+  
+  /* .button:hover {
+    background-color:black;
+  }
+   */
+.menfour{
+    margin-top: 70px;
+}
+.sett{
+
+    margin-left: 80px;
+
+    
+}
+/* .menfive .container{
+    background-color: rgb(232, 232, 219);
+} */
+.accord-item h2{
+    background-color: rgb(232, 232, 219);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50%;
+}
+.menfive{
+    margin-top: 50px;
+}
+

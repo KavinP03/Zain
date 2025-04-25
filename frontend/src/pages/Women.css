@@ -1,0 +1,107 @@
+.caro2{
+    width: 1571px;
+    height: 700px;
+}
+.women_1 .card img{
+    width: 303px;
+    height: 469px;
+}
+.wtwo h1{
+    text-align: center;
+  padding-left: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-family: Crimson Pro, serif;
+}
+.wtwo {
+    background-color: rgb(232, 232, 219);
+}
+.women_1 .card{
+    background-color:rgb(232, 232, 219) ;
+    margin-bottom: 80px;
+    border: none;
+}
+.women_1 .card:hover{
+    transform: scale(1.1);
+}
+.women_1 h5{
+    text-align: center;
+  font-style: initial;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.women_2 h5,h6,p{
+    font-family: Crimson Pro, serif;
+    text-align: center;
+}
+
+.wthree h1{
+    text-align: center;
+   font-family: Crimson Pro, serif;
+   letter-spacing: 2px;
+   padding-bottom: 30px;
+   padding-top: 30px;
+}
+.women_2 .card{
+    height: 620px;
+}
+.women_2 .card img{
+    height: 400px;
+}
+.wfour h1{
+    text-align: center;
+   font-family: Crimson Pro, serif;
+   letter-spacing: 2px;
+   padding-bottom: 30px;
+   padding-top: 30px;
+}
+.women_3 .card{
+    height: 620px;
+}
+.women_3 .card img{
+    height: 400px;
+}
+.women_3 h5{
+    font-family: Crimson Pro, serif;
+    text-align: center;
+}
+.wfour{
+    margin-bottom: 90px;
+}
+.women_2 button {
+    padding: 6px 16px;
+   
+    width: auto;
+    white-space: nowrap; /* Prevent text from wrapping */
+    background-color:black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 14px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: -70px;
+    
+  }
+  .women_3 button {
+    padding: 6px 16px;
+   
+    width: auto;
+    white-space: nowrap; /* Prevent text from wrapping */
+    background-color:black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 14px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: -70px;
+    
+  }
+  
+  

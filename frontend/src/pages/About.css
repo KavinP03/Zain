@@ -1,0 +1,181 @@
+.abtbg{
+    background-image: url('../images/aboutbg1.jpg');
+    width: 578px;
+    height: 694px;
+    background-size: cover;
+    background-position: fixed;
+}
+.abt_1 h1{
+text-align: center;
+font-family: Crimson Pro, serif;
+letter-spacing: 2px;
+color: rgb(20, 42, 20);
+}
+.abt_1 p{
+    text-align: center;
+    letter-spacing: 1px;
+}
+.abt_1 .card{
+    padding-left: 10px;
+    margin-top: 250px;
+    border: none;
+    
+  background-color: rgb(232, 232, 219);
+}
+.aboutone button{
+    background-color: transparent;
+    display: inline-block;
+    padding: .75em 2em;
+    border: .0625rem solid #231f20;
+    border-radius: 0;
+    font-size: 14px;
+    line-height: 12px;
+    font-weight: 600;
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    -webkit-transition: opacity 426ms cubic-bezier(.4,.9,.3,1), color 426ms cubic-bezier(.4,.9,.3,1), border-color 426ms cubic-bezier(.4,.9,.3,1), background-color 426ms cubic-bezier(.4,.9,.3,1);
+    transition: opacity 426ms cubic-bezier(.4,.9,.3,1), color 426ms cubic-bezier(.4,.9,.3,1), border-color 426ms cubic-bezier(.4,.9,.3,1), background-color 426ms cubic-bezier(.4,.9,.3,1);
+    margin-left: 35%;
+}
+.aboutone{
+   
+  background-color: rgb(232, 232, 219);
+}
+.about_2 .default{
+    width: 304px;
+    height: 489px;
+}
+/* .about_2 .hover{
+    width: 304px;
+    height: 489px;
+}
+.about_2 .card{
+    position: relative;
+    overflow: hidden;
+}
+.about_2 .default .hover{
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+.about_2 .hover{
+    opacity: 0;
+}
+.about_2:hover .default{
+    opacity: 0;
+}
+.about_2:hover .hover{
+    opacity: 1;
+} */
+.abouttwo h1{
+    text-align: center;
+  padding-left: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-family: Crimson Pro, serif;
+}
+.abouttwo .card{
+    border: none;
+}
+.abtimg{
+    /* background-image: url('../images/aboutbg.webp'); */
+    width: 700px;
+    height: 300px;
+    
+    
+}
+.aboutthree{
+    height: 450px;
+}
+.threecon .card h1{
+    text-align: center;
+    font-family: Crimson Pro, serif;
+/* letter-spacing: 2px; */
+color: rgb(20, 42, 20);
+}
+.threecon .card p{
+    text-align: center;
+    font-family: Crimson Pro, serif;
+    font-size: 15px;
+}
+.threecon .card{
+   margin-left: 50px;
+    margin-top: 20px;
+    border: none;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    background-color:rgb(232, 232, 219);
+    
+    
+}
+
+.abt_3 h1{
+    text-align: center;
+font-family: Crimson Pro, serif;
+letter-spacing: 2px;
+color: rgb(20, 42, 20);
+margin-top: 30px;
+margin-bottom: 30px;
+}
+.about_2 .card:hover{
+    transform: scale(1.1);
+}
+.abt_4 img{
+    /* background-image: url('../images/abtbg2.jpg'); */
+    width: 1520px;
+    height: 700px;
+    background-position: fixed;
+    background-repeat: no-repeat;
+}
+.aboutthree{
+    background-color: rgb(232, 232, 219);
+}
+/* .about_2 .card .hover{
+    position:absolute;
+    width: 304px;
+    height: 489px;
+
+
+}
+.about_2:hover.hover{
+    opacity: 1;
+} */
+ .aboutfive {
+    overflow: hidden;
+    background-color: #1e381e;
+    
+ }
+ .mail1{
+    padding-left: 400px;
+    /* border: 2px solid red; */
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: Crimson Pro, serif;
+    color: white;
+ }
+ .mail2 input{
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+   border-right: none;
+    border: solid white;
+    border-top: none;
+    border-left: none;
+    color: white;
+    background-color: #1e381e;
+    font-size: 18px;
+    font-family: Crimson Pro, serif;
+ }
+ .mail2 input{
+    border-right:none ;
+ }
+ .mail2 ::placeholder{
+    font-size: 24px;
+    color: white;
+ }
+ .mail2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+ }

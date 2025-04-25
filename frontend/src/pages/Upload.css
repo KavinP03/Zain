@@ -1,0 +1,21 @@
+/* .upload{
+    border: 10px solid black;
+} */
+.upload h2{
+    text-align: center;
+}
+.upload .upl1{
+    padding-left: 680px;
+    margin-top: 20px;
+    /* border: 2px solid black; */
+}
+.upload button{
+    background-color: black;
+    margin-left: 30px;
+    color: white;
+}
+.upload .upl1 label{
+    padding-left: 60px;
+    /* color: red; */
+}
+ 
